@@ -2,7 +2,7 @@
 
 TF2 Sentinel is a searchable community database that combines public TF2 cheater lists, server bans, league bans, reviewed reports, and other moderation sources.
 
-**Website:** [https://unusualhatter.github.io/TF2-Sentinel/](https://holid4y.github.io/TF2-Sentinel/)
+**Website:** https://holid4y.github.io/TF2-Sentinel/
 
 **Current snapshot:** 36,310 SteamIDs · 82,193 source records · 104 sources · updated August 26, 2026.
 
