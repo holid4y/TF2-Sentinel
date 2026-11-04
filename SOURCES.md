@@ -90,7 +90,7 @@ A source with **Counts = no** is retained for reference, identity history, mirro
 | 81 | joekiller — personal cheater list | tf2bd playerlist | north-america | 1,627 | 72 | yes | [upstream](https://github.com/joekiller/joekiller-list) |
 | 82 | Vonny — personal cheater list | tf2bd playerlist | global | 30 | 50 | yes | [upstream](https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector) |
 | 83 | RednotePL — TF2 bot list | tf2bd playerlist | europe | 154 | 45 | yes | [upstream](https://github.com/RednotePL/tf2-botlist) |
-| 84 | Cleffy — personal cheater list | tf2bd playerlist | europe | 1,096 | 72 | yes | [upstream](https://github.com/Cl3ffy/cleffy-list) |
+| 84 | Cleffy — personal cheater list | tf2bd playerlist | europe | 1,444 | 72 | yes | [upstream](https://github.com/Cl3ffy/cleffy-list) |
 | 85 | As0mn — NA casual cheater list | tf2bd playerlist | north-america | 898 | 65 | yes | [upstream](https://github.com/As0mn/tf2bd-list) |
 | 86 | H0xton1337 — Naughty list | tf2bd playerlist | global | 1,524 | 60 | yes | [upstream](https://github.com/H0xton1337/naughtylist-) |
 | 87 | DarkPyro's Servers — SourceBans | sourcebans | global | 184 | 85 | yes | [upstream](https://bans.darkpyro.gg/) |

@@ -1,21 +1,21 @@
 {
-  "unique_accounts": 36463,
-  "source_records": 93757,
-  "flags": 73410,
-  "evidence_rows": 57200,
-  "aliases": 49396,
+  "unique_accounts": 36551,
+  "source_records": 94105,
+  "flags": 73747,
+  "evidence_rows": 57505,
+  "aliases": 49610,
   "server_bans": 13402,
   "registered_sources": 104,
   "data_bearing_sources": 80,
   "accounts_with_avatar": 21305,
   "accounts_with_persona": 20525,
   "confidence_tiers": {
-    "high": 9928,
-    "low": 536,
+    "high": 9965,
+    "low": 543,
     "medium": 6981,
     "unscored": 8030,
-    "very_high": 7008,
-    "very_low": 3980
+    "very_high": 7053,
+    "very_low": 3979
   },
-  "generated_at": "2026-11-02T21:51:57-03:00"
+  "generated_at": "2026-11-03T21:53:21-03:00"
 }
