@@ -78,7 +78,7 @@ A source with **Counts = no** is retained for reference, identity history, mirro
 | 69 | MCDB — legit | compiled playerlist | global | 80 | 0 | no | [upstream](https://mcdb.neocities.org/) |
 | 70 | SteamHistory — profile history | profile history enrichment | global | 0 | 0 | no | [upstream](https://steamhistory.net/) |
 | 71 | minein4 — Shitlist | tf2bd playerlist | europe | 3,840 | 65 | yes | [upstream](https://github.com/minein4/Shitlist) |
-| 72 | Garou3299 — TF2BD database | tf2bd playerlist | global | 666 | 70 | yes | [upstream](https://github.com/Garou3299/TF2BD-Database) |
+| 72 | Garou3299 — TF2BD database | tf2bd playerlist | global | 669 | 70 | yes | [upstream](https://github.com/Garou3299/TF2BD-Database) |
 | 73 | STAR Cheater Database | mirror index | global | 0 | 0 | no | [upstream](https://github.com/starshipsystems/tf2-cheater-list) |
 | 74 | ill5 — MegaScatterBomb database mirror | mirror index | global | 0 | 0 | no | [upstream](https://github.com/ill5-com/megascatterbomb-tf2-cheater-database) |
 | 75 | Nemesis — TF2BD player list | aggregator | global | 0 | 0 | no | [upstream](https://nemesis.surf/) |
@@ -90,7 +90,7 @@ A source with **Counts = no** is retained for reference, identity history, mirro
 | 81 | joekiller — personal cheater list | tf2bd playerlist | north-america | 1,627 | 72 | yes | [upstream](https://github.com/joekiller/joekiller-list) |
 | 82 | Vonny — personal cheater list | tf2bd playerlist | global | 30 | 50 | yes | [upstream](https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector) |
 | 83 | RednotePL — TF2 bot list | tf2bd playerlist | europe | 154 | 45 | yes | [upstream](https://github.com/RednotePL/tf2-botlist) |
-| 84 | Cleffy — personal cheater list | tf2bd playerlist | europe | 1,444 | 72 | yes | [upstream](https://github.com/Cl3ffy/cleffy-list) |
+| 84 | Cleffy — personal cheater list | tf2bd playerlist | europe | 1,447 | 72 | yes | [upstream](https://github.com/Cl3ffy/cleffy-list) |
 | 85 | As0mn — NA casual cheater list | tf2bd playerlist | north-america | 898 | 65 | yes | [upstream](https://github.com/As0mn/tf2bd-list) |
 | 86 | H0xton1337 — Naughty list | tf2bd playerlist | global | 1,524 | 60 | yes | [upstream](https://github.com/H0xton1337/naughtylist-) |
 | 87 | DarkPyro's Servers — SourceBans | sourcebans | global | 184 | 85 | yes | [upstream](https://bans.darkpyro.gg/) |
