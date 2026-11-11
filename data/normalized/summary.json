@@ -1,9 +1,9 @@
 {
-  "unique_accounts": 36566,
-  "source_records": 94122,
-  "flags": 73762,
-  "evidence_rows": 57516,
-  "aliases": 49626,
+  "unique_accounts": 36569,
+  "source_records": 94126,
+  "flags": 73765,
+  "evidence_rows": 57519,
+  "aliases": 49629,
   "server_bans": 13402,
   "registered_sources": 104,
   "data_bearing_sources": 80,
@@ -11,11 +11,11 @@
   "accounts_with_persona": 20525,
   "confidence_tiers": {
     "high": 9965,
-    "low": 553,
-    "medium": 6986,
+    "low": 555,
+    "medium": 6987,
     "unscored": 8030,
     "very_high": 7053,
     "very_low": 3979
   },
-  "generated_at": "2026-11-09T21:54:20-03:00"
+  "generated_at": "2026-11-10T21:53:16-03:00"
 }
