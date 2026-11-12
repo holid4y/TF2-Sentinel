@@ -78,7 +78,7 @@ A source with **Counts = no** is retained for reference, identity history, mirro
 | 69 | MCDB — legit | compiled playerlist | global | 80 | 0 | no | [upstream](https://mcdb.neocities.org/) |
 | 70 | SteamHistory — profile history | profile history enrichment | global | 0 | 0 | no | [upstream](https://steamhistory.net/) |
 | 71 | minein4 — Shitlist | tf2bd playerlist | europe | 3,840 | 65 | yes | [upstream](https://github.com/minein4/Shitlist) |
-| 72 | Garou3299 — TF2BD database | tf2bd playerlist | global | 680 | 70 | yes | [upstream](https://github.com/Garou3299/TF2BD-Database) |
+| 72 | Garou3299 — TF2BD database | tf2bd playerlist | global | 691 | 70 | yes | [upstream](https://github.com/Garou3299/TF2BD-Database) |
 | 73 | STAR Cheater Database | mirror index | global | 0 | 0 | no | [upstream](https://github.com/starshipsystems/tf2-cheater-list) |
 | 74 | ill5 — MegaScatterBomb database mirror | mirror index | global | 0 | 0 | no | [upstream](https://github.com/ill5-com/megascatterbomb-tf2-cheater-database) |
 | 75 | Nemesis — TF2BD player list | aggregator | global | 0 | 0 | no | [upstream](https://nemesis.surf/) |
