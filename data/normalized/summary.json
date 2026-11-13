@@ -1,7 +1,7 @@
 {
   "unique_accounts": 36571,
-  "source_records": 94137,
-  "flags": 73776,
+  "source_records": 94139,
+  "flags": 73778,
   "evidence_rows": 57521,
   "aliases": 49632,
   "server_bans": 13402,
@@ -11,11 +11,11 @@
   "accounts_with_persona": 20525,
   "confidence_tiers": {
     "high": 9962,
-    "low": 551,
-    "medium": 6993,
+    "low": 550,
+    "medium": 6994,
     "unscored": 8030,
     "very_high": 7056,
     "very_low": 3979
   },
-  "generated_at": "2026-11-11T22:00:33-03:00"
+  "generated_at": "2026-11-12T21:57:47-03:00"
 }
